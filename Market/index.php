@@ -47,8 +47,8 @@ echo $tina_store->displayDetails();
 
 echo "<hr>";
 
-echo $albert_store->openStore();
-echo $albert_store->announce();
-echo $albert_store->displayDetails();
+echo $john_store->openStore();
+echo $john_store->announce();
+echo $john_store->displayDetails();
 
 ?>
