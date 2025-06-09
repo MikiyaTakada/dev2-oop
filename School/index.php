@@ -15,7 +15,7 @@
 
 <body>
     <!-- Content Here -->
-    <div class="card card-body w-50 mx-auto  my-5">
+    <div class="card card-body bg-primary w-50 mx-auto  my-5">
         <h1 class="text-center">REGISTRATION</h1>
         <form action="" method="post">
             <label for="sname" class="form-label">Student's Name</label><br>
